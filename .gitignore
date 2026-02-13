@@ -1,0 +1,7 @@
+*.gz
+*.rnx
+*.obs
+*.nav
+*.sp3
+*.clk
+data/
