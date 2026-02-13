@@ -1,0 +1,6 @@
+georinex
+numpy
+pandas
+matplotlib
+scikit-learn
+xarray
