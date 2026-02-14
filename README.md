@@ -1,5 +1,13 @@
 # GNSS Signal & AI Modelling – MORP (20 Jan 2026)
 
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+![RINEX](https://img.shields.io/badge/RINEX-2.11-green)
+![GNSS](https://img.shields.io/badge/System-GPS--Only-orange)
+![ML](https://img.shields.io/badge/Machine%20Learning-Random%20Forest-red)
+![Data](https://img.shields.io/badge/Data-NASA%20CDDIS-lightgrey)
+
+---
+
 This project analyses GPS-only RINEX 2.11 data from station MORP
 (downloaded from NASA CDDIS) and applies data-driven techniques
 to model GNSS signal instability.
