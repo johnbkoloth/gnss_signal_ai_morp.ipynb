@@ -1,5 +1,5 @@
 # GNSS Signal & AI Modelling – MORP (20 Jan 2026)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/johnbkoloth/gnss-signal-ai-morp/blob/main/gnss_signal_ai_morp.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/johnbkoloth/gnss_signal_ai_morp.ipynb/blob/main/gnss_signal_ai_morp.ipynb)
 
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
